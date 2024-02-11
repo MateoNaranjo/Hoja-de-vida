@@ -1,0 +1,144 @@
+.container {
+    display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    /* Por defecto, flex-direction es "row" (fila) */
+  }
+  
+  .left {
+    /* Opcional: Estilo para la hora a la izquierda */
+    flex: 1; /* Ocupa la mitad del espacio disponible */
+    padding: 10px;
+    
+  }
+  
+  .right {
+    /* Opcional: Estilo para el contenido a la derecha */
+    flex: 1; /* Ocupa la mitad del espacio disponible */
+    padding: 10px;
+    
+  }
+/*imagenes*/
+.arroba{
+    width: 1%;
+    
+    
+}
+
+.celular{
+    width: 1%;
+    margin-left: 30px;
+}
+
+.direccion{
+    width: 1%;
+    margin-left: 30px;
+}
+
+.ubicacion{
+    width: 1%;
+    margin-left: 30px;
+}
+
+.git{
+    width: 1%;
+    margin-left: 30px;
+}
+
+.calendario{
+    width: 2%;
+}
+
+.punto{
+    width: 2%;
+    margin-top: 12px;
+}
+
+.donde{
+    width: 2%;
+    margin-left: 105px;
+}
+.arroba1{
+    width: 2%;
+    
+}
+
+.celular1{
+    width: 2%;
+    margin-top: 20px;
+}
+/*texto*/
+.informacion .info{
+    display: inline;
+    font-family: 'Lucida Sans';
+    
+}
+
+.informacion .nom{
+    font-family: 'Lucida Sans';
+}
+
+.informacion .cont{
+    font-family: 'Lucida Sans';
+    color: brown;
+}
+
+.ser{
+    font-family: 'Lucida Sans';
+    color: brown;
+    border-bottom: 4px rgb(221, 193, 133) solid;
+    
+}
+
+.se{
+    font-family: 'Lucida Sans';
+}
+
+.fecha{
+    display: inline;
+}
+
+.trabajo{
+    font-family: 'Lucida Sans';
+    color: rgb(165, 97, 42);
+}
+
+.mesero{
+    margin-top: 50px;
+    font-family: 'Lucida Sans';
+    display: inline;
+}
+
+.mesero2{
+    margin-top: 50px;
+    font-family: 'Lucida Sans';
+    display: inline;
+}
+
+.columna{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.l1{
+    border-bottom: 2px darkgray dashed;
+
+}
+
+.for{
+    display: inline;
+    font-family: 'Lucida Sans';
+    background-color: blanchedalmond;
+    border-radius: 20px;
+    margin-right: 20px;
+   
+}
+
+.columna .circle{
+    margin: -5%;
+    
+}
+
+
+
+
+
