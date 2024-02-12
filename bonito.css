@@ -150,6 +150,49 @@
         padding: 10px;
     }
 
+    .celular{
+        width: 3%;
+        margin-left: 30px;
+    }
+    
+    .direccion{
+        width: 3%;
+        margin-left: 30px;
+    }
+    
+    .ubicacion{
+        width: 3%;
+        margin-left: 30px;
+    }
+    
+    .git{
+        width: 3%;
+        margin-left: 30px;
+    }
+    
+    .calendario{
+        width: 4%;
+    }
+    
+    .punto{
+        width: 4%;
+        margin-top: 12px;
+    }
+    
+    .donde{
+        width: 4%;
+        margin-left: 105px;
+    }
+    .arroba1{
+        width: 4%;
+        
+    }
+    
+    .celular1{
+        width: 2%;
+        margin-top: 20px;
+    }
+
 
 
 }
