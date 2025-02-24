@@ -172,8 +172,8 @@ a{
     main{
 
         display: grid;
-        grid-template-columns: 1fr;
-        width: 70%:
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Dos o tres columnas según el espacio disponible */
+        gap: 10px;
     }
 
     body{
