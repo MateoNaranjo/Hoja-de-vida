@@ -173,6 +173,7 @@ a{
 
         display: grid;
         grid-template-columns: 1fr;
+        width: 70%:
     }
 
     body{
